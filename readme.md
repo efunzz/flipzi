@@ -1,12 +1,9 @@
 # 📚 Flipzi – Personal Flashcard Study App
 
-## Description
+Flipzi is a minimalist mobile flashcard application built with **React Native** and **Expo**. It demonstrates the process of building a fully functional app from start to finish, including component architecture, state management, persistent storage, authentication, and deployment readiness.
 
-Flipzi is a mobile flashcard application built with **React Native** and **Expo**, designed to support effective studying through **active recall** and **spaced repetition**.
+The project was created as a hands-on exercise to showcase practical mobile development skills, with a focus on building a clean, touch-friendly interface and a complete workflow for creating, managing, and reviewing flashcards.
 
-The app was created as a practical solution to improve long-term retention of computer science concepts, while also serving as a hands-on project to explore real-world mobile development challenges such as state management, persistence, authentication, and API integration.
-
----
 
 ## 📦 Technologies
 
@@ -20,7 +17,6 @@ The app was created as a practical solution to improve long-term retention of co
 - StyleSheet / Flexbox
 - Jest
 
----
 
 ## ✨ Features
 
@@ -50,7 +46,6 @@ The app was created as a practical solution to improve long-term retention of co
 - Subtle haptic feedback for key actions
 - Portrait-only layout for consistent study sessions
 
----
 
 ## 🎯 User Interactions
 
@@ -59,7 +54,6 @@ The app was created as a practical solution to improve long-term retention of co
 - Button-based confidence rating during study sessions
 - Haptic feedback to reinforce user actions
 
----
 
 ## 👩🏽‍🍳 Development Process
 
@@ -76,7 +70,6 @@ The app was created as a practical solution to improve long-term retention of co
 
 Each feature was built incrementally and validated before integration into the full study workflow.
 
----
 
 ## 💡 What I Learned
 
@@ -114,7 +107,6 @@ Each feature was built incrementally and validated before integration into the f
 - Gained confidence building production-ready mobile applications.
 - Improved ability to balance functionality, usability, and performance.
 
----
 
 ## 💭 Possible Improvements
 
@@ -124,7 +116,6 @@ Each feature was built incrementally and validated before integration into the f
 - Voice-based flashcards for audio learning
 - More customization options for study sessions
 
----
 
 ## 🚦 Running the Project
 
@@ -136,7 +127,6 @@ Install dependencies:
 3. Start the development server: npx expo start
 4. Run the app on a device or simulator: npx expo start --ios , npx expo start --android
 
----
 
 ## 🍿 Demo / Video
-(Video link to be added) 2025
+(Video link to be added) 
