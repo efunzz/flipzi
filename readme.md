@@ -135,6 +135,8 @@ Install dependencies:
 2. Install the required dependencies: npm install
 3. Start the development server: npx expo start
 4. Run the app on a device or simulator: npx expo start --ios , npx expo start --android
-5. 
-##🍿 Demo / Video
+
+---
+
+## 🍿 Demo / Video
 (Video link to be added) 2025
